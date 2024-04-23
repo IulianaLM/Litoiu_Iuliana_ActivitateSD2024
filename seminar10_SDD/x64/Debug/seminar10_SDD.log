@@ -1,0 +1,4 @@
+﻿  FileName.c
+C:\Users\stud\source\repos\seminar10_SDD\seminar10_SDD\FileName.c(28,31): warning C4013: 'strlen' undefined; assuming extern returning int
+C:\Users\stud\source\repos\seminar10_SDD\seminar10_SDD\FileName.c(29,2): warning C4013: 'strcpy' undefined; assuming extern returning int
+  seminar10_SDD.vcxproj -> C:\Users\stud\source\repos\seminar10_SDD\x64\Debug\seminar10_SDD.exe
